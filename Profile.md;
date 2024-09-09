@@ -1,0 +1,4 @@
+-Ask th user to enter **_n1_**
+-If **_n1__** is divisible by 2 and reminder is 0 THEN
+   Display the given number is even to the user 
+   -Else display the given number is odd to the user
